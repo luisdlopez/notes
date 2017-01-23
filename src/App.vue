@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    Notes app, coming soon...
+    Notes app, coming very soon...
   </div>
 </template>
 
