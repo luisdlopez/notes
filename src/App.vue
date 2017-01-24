@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    Notes app, coming very soon...
+    Notes app (deployed by codeship on firebase), coming soon...
   </div>
 </template>
 
